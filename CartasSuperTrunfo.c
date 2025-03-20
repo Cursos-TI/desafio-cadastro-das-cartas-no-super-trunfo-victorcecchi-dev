@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Criando as Cartas do Super Trunfo
+//Criando as Cartas do Super Trunfo - Nivel Novato
 
 //Este código coleta as informações digitadas no terminal e exibe no formato de carta "Super Trunfo".
 
