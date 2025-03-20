@@ -77,7 +77,6 @@ int main() {
 
     // Exibição das informações coletadas
 
-
     // Carta 1
     printf("\n");
     printf("Carta 1:\n");
